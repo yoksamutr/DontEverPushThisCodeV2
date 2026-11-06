@@ -1,3 +1,4 @@
 .omc
 .vscode
 .github/workflows/.vscode
+node_modules
